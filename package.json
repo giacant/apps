@@ -1,8 +1,8 @@
 {
-  "name": "mlapp",
+  "name": "MaxiLeghe App",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "Maxisoft s.r.l.",
+  "homepage": "https://www.maxisoft.it/",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
@@ -34,5 +34,5 @@
     "@ionic/app-scripts": "3.0.0",
     "typescript": "2.3.4"
   },
-  "description": "An Ionic project"
+  "description": "La App per giocare a MaxiLeghe"
 }
